@@ -1,0 +1,2 @@
+This is  afile created in the feature branch new_branch. To check if you get branching, checkout to this branch
+from Thinkpad, pull, make changes, push again, and repeat this a few times making more and more changes and playing around.
